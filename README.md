@@ -15,6 +15,9 @@ cd path/to/recon_ng
 
 
 #Prepare.sh gets files archived into a 7z archive
+
 #Convert.sh converts all .log to .txt
+
 #search_takeovers.sh will parse the takeovers.txt and look for entries mark [VULNERABLE]
+
 #cleanup.sh will remove any unwanted leftover log files
