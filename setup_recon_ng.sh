@@ -72,6 +72,7 @@ sudo mkdir -p /usr/share/wordlists
 sudo wget https://github.com/danielmiessler/SecLists/raw/master/Discovery/DNS/subdomains-top1million-5000.txt -O /usr/share/wordlists/subdomains.txt
 sudo wget https://github.com/koaj/aws-s3-bucket-wordlist/raw/master/common-s3-bucket-names-list.txt -O /usr/share/wordlists/s3_buckets.txt
 
+./recon_tools.sh
 
 echo "[✓] Setup complete. Tools installed in: $TOOLS_DIR"
 
