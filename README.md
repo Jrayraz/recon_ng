@@ -9,7 +9,7 @@ cd /path/to/setup_recon_ng.sh
 #Run recon_ng:
 cd path/to/recon_ng.sh
 ./recon_ng.sh
-# This will create several logs, recon_ng_curl.log, recon_ng.log, recon_ng_takeovers.log recon_ng (if y is selected for advanced
+# This will create several logs, recon_ng_curl.log, recon_ng.log, recon_ng_takeovers.log (if y is selected for advanced) recon_ng_extended.log recon_ng_dns.log
 #enumeration then there will be an additional dir of data.#
 
 #Prepare.sh gets files archived into a 7z archive
